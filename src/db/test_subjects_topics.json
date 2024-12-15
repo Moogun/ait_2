@@ -1,0 +1,314 @@
+[
+    {
+        "id": "1c24a9b3-d722-4296-b7ad-89a2e8a624cb",
+        "name": "English Speaking",
+        "description": "Learn english speaking with interactive lessons and exercises.",
+        "topics": [
+            {
+                "id": "52f01884-a003-4837-9fd5-a162173497c5",
+                "subjectID": "1c24a9b3-d722-4296-b7ad-89a2e8a624cb",
+                "name": "Lesson 1: Practice",
+                "description": "Explore english speaking with lesson 1.",
+                "createdAt": "2024-12-12T07:17:57.184275",
+                "updatedAt": "2024-12-12T07:17:57.184275"
+            },
+            {
+                "id": "6a4b2e4c-64d4-4532-bc88-942394829187",
+                "subjectID": "1c24a9b3-d722-4296-b7ad-89a2e8a624cb",
+                "name": "Lesson 2: Basics",
+                "description": "Explore english speaking with lesson 2.",
+                "createdAt": "2024-12-12T07:17:57.184275",
+                "updatedAt": "2024-12-12T07:17:57.184275"
+            },
+            {
+                "id": "a4831171-4c76-49b6-b719-5579a18a4d5e",
+                "subjectID": "1c24a9b3-d722-4296-b7ad-89a2e8a624cb",
+                "name": "Lesson 3: Basics",
+                "description": "Explore english speaking with lesson 3.",
+                "createdAt": "2024-12-12T07:17:57.184275",
+                "updatedAt": "2024-12-12T07:17:57.184275"
+            },
+            {
+                "id": "54a4fb2a-1342-4628-934d-622dd98582e7",
+                "subjectID": "1c24a9b3-d722-4296-b7ad-89a2e8a624cb",
+                "name": "Lesson 4: Advanced",
+                "description": "Explore english speaking with lesson 4.",
+                "createdAt": "2024-12-12T07:17:57.184275",
+                "updatedAt": "2024-12-12T07:17:57.184275"
+            }
+        ],
+        "createdAt": "2024-12-12T07:17:57.184275",
+        "updatedAt": "2024-12-12T07:17:57.184275"
+    },
+    {
+        "id": "1ac2ebc3-a5db-4dc9-afa6-14227d2fb4bc",
+        "name": "English Vocabulary",
+        "description": "Learn english vocabulary with interactive lessons and exercises.",
+        "topics": [
+            {
+                "id": "1db169da-104f-4598-980e-c5daae940c32",
+                "subjectID": "1ac2ebc3-a5db-4dc9-afa6-14227d2fb4bc",
+                "name": "Lesson 1: Practice",
+                "description": "Explore english vocabulary with lesson 1.",
+                "createdAt": "2024-12-12T07:17:57.185118",
+                "updatedAt": "2024-12-12T07:17:57.185118"
+            },
+            {
+                "id": "0c90fcc7-9257-417a-b130-26d853c23b65",
+                "subjectID": "1ac2ebc3-a5db-4dc9-afa6-14227d2fb4bc",
+                "name": "Lesson 2: Basics",
+                "description": "Explore english vocabulary with lesson 2.",
+                "createdAt": "2024-12-12T07:17:57.185118",
+                "updatedAt": "2024-12-12T07:17:57.185118"
+            },
+            {
+                "id": "f7adaa4c-cf1b-41f5-a8b1-6c6131edc37f",
+                "subjectID": "1ac2ebc3-a5db-4dc9-afa6-14227d2fb4bc",
+                "name": "Lesson 3: Intermediate",
+                "description": "Explore english vocabulary with lesson 3.",
+                "createdAt": "2024-12-12T07:17:57.185118",
+                "updatedAt": "2024-12-12T07:17:57.185118"
+            },
+            {
+                "id": "055d8da9-96b5-4aa2-9dbe-407261c1221e",
+                "subjectID": "1ac2ebc3-a5db-4dc9-afa6-14227d2fb4bc",
+                "name": "Lesson 4: Advanced",
+                "description": "Explore english vocabulary with lesson 4.",
+                "createdAt": "2024-12-12T07:17:57.185118",
+                "updatedAt": "2024-12-12T07:17:57.185118"
+            },
+            {
+                "id": "4e8b2ea4-0e4e-49f5-8d8c-693b2fb5bc29",
+                "subjectID": "1ac2ebc3-a5db-4dc9-afa6-14227d2fb4bc",
+                "name": "Lesson 5: Intermediate",
+                "description": "Explore english vocabulary with lesson 5.",
+                "createdAt": "2024-12-12T07:17:57.185118",
+                "updatedAt": "2024-12-12T07:17:57.185118"
+            }
+        ],
+        "createdAt": "2024-12-12T07:17:57.185118",
+        "updatedAt": "2024-12-12T07:17:57.185118"
+    },
+    {
+        "id": "d4d8649b-6a49-4adb-97fb-aedefb6b5528",
+        "name": "English Listening",
+        "description": "Learn english listening with interactive lessons and exercises.",
+        "topics": [
+            {
+                "id": "3410831e-1477-4093-bd31-74f5e8aa8ed7",
+                "subjectID": "d4d8649b-6a49-4adb-97fb-aedefb6b5528",
+                "name": "Lesson 1: Basics",
+                "description": "Explore english listening with lesson 1.",
+                "createdAt": "2024-12-12T07:17:57.185696",
+                "updatedAt": "2024-12-12T07:17:57.185696"
+            },
+            {
+                "id": "656caaaa-e06a-4e90-b95d-ddf5c8106434",
+                "subjectID": "d4d8649b-6a49-4adb-97fb-aedefb6b5528",
+                "name": "Lesson 2: Intermediate",
+                "description": "Explore english listening with lesson 2.",
+                "createdAt": "2024-12-12T07:17:57.185696",
+                "updatedAt": "2024-12-12T07:17:57.185696"
+            },
+            {
+                "id": "70218c05-4155-4b1a-89a1-10136d4ad4e1",
+                "subjectID": "d4d8649b-6a49-4adb-97fb-aedefb6b5528",
+                "name": "Lesson 3: Intermediate",
+                "description": "Explore english listening with lesson 3.",
+                "createdAt": "2024-12-12T07:17:57.185696",
+                "updatedAt": "2024-12-12T07:17:57.185696"
+            }
+        ],
+        "createdAt": "2024-12-12T07:17:57.185696",
+        "updatedAt": "2024-12-12T07:17:57.185696"
+    },
+    {
+        "id": "010a4140-8fb7-4739-9dde-acf85ae609a9",
+        "name": "English Speaking",
+        "description": "Learn english speaking with interactive lessons and exercises.",
+        "topics": [
+            {
+                "id": "9ed298bb-430c-4bb3-8d89-2ea43efb3ffb",
+                "subjectID": "010a4140-8fb7-4739-9dde-acf85ae609a9",
+                "name": "Lesson 1: Basics",
+                "description": "Explore english speaking with lesson 1.",
+                "createdAt": "2024-12-12T07:17:57.186444",
+                "updatedAt": "2024-12-12T07:17:57.186444"
+            },
+            {
+                "id": "c697a78e-2e3c-4041-a55b-02422c5cef7c",
+                "subjectID": "010a4140-8fb7-4739-9dde-acf85ae609a9",
+                "name": "Lesson 2: Intermediate",
+                "description": "Explore english speaking with lesson 2.",
+                "createdAt": "2024-12-12T07:17:57.186444",
+                "updatedAt": "2024-12-12T07:17:57.186444"
+            },
+            {
+                "id": "9719e410-67fa-4221-bf69-e08889ecbebb",
+                "subjectID": "010a4140-8fb7-4739-9dde-acf85ae609a9",
+                "name": "Lesson 3: Practice",
+                "description": "Explore english speaking with lesson 3.",
+                "createdAt": "2024-12-12T07:17:57.186444",
+                "updatedAt": "2024-12-12T07:17:57.186444"
+            },
+            {
+                "id": "6eef2c07-85b5-409e-8e23-be8b845d18d1",
+                "subjectID": "010a4140-8fb7-4739-9dde-acf85ae609a9",
+                "name": "Lesson 4: Advanced",
+                "description": "Explore english speaking with lesson 4.",
+                "createdAt": "2024-12-12T07:17:57.186444",
+                "updatedAt": "2024-12-12T07:17:57.186444"
+            }
+        ],
+        "createdAt": "2024-12-12T07:17:57.186444",
+        "updatedAt": "2024-12-12T07:17:57.186444"
+    },
+    {
+        "id": "29538905-0ab8-4ca0-ae1e-561d416cc432",
+        "name": "English Listening",
+        "description": "Learn english listening with interactive lessons and exercises.",
+        "topics": [
+            {
+                "id": "270e1a6c-9a68-4e17-acbd-974d29c1212d",
+                "subjectID": "29538905-0ab8-4ca0-ae1e-561d416cc432",
+                "name": "Lesson 1: Basics",
+                "description": "Explore english listening with lesson 1.",
+                "createdAt": "2024-12-12T07:17:57.186518",
+                "updatedAt": "2024-12-12T07:17:57.186518"
+            },
+            {
+                "id": "8bbc0b56-a057-4768-afc3-c28218deb9cb",
+                "subjectID": "29538905-0ab8-4ca0-ae1e-561d416cc432",
+                "name": "Lesson 2: Practice",
+                "description": "Explore english listening with lesson 2.",
+                "createdAt": "2024-12-12T07:17:57.186518",
+                "updatedAt": "2024-12-12T07:17:57.186518"
+            },
+            {
+                "id": "cbee889c-7e2b-47b0-a422-5d999663568c",
+                "subjectID": "29538905-0ab8-4ca0-ae1e-561d416cc432",
+                "name": "Lesson 3: Intermediate",
+                "description": "Explore english listening with lesson 3.",
+                "createdAt": "2024-12-12T07:17:57.186518",
+                "updatedAt": "2024-12-12T07:17:57.186518"
+            },
+            {
+                "id": "f7e51d0a-036e-454f-82ea-1ce5a29f2dd9",
+                "subjectID": "29538905-0ab8-4ca0-ae1e-561d416cc432",
+                "name": "Lesson 4: Advanced",
+                "description": "Explore english listening with lesson 4.",
+                "createdAt": "2024-12-12T07:17:57.186518",
+                "updatedAt": "2024-12-12T07:17:57.186518"
+            }
+        ],
+        "createdAt": "2024-12-12T07:17:57.186518",
+        "updatedAt": "2024-12-12T07:17:57.186518"
+    },
+    {
+        "id": "05284687-37a8-4469-9844-3e1305e95f87",
+        "name": "English Vocabulary",
+        "description": "Learn english vocabulary with interactive lessons and exercises.",
+        "topics": [
+            {
+                "id": "0f91b948-758f-474d-82f2-b8ab28b74e81",
+                "subjectID": "05284687-37a8-4469-9844-3e1305e95f87",
+                "name": "Lesson 1: Basics",
+                "description": "Explore english vocabulary with lesson 1.",
+                "createdAt": "2024-12-12T07:17:57.186561",
+                "updatedAt": "2024-12-12T07:17:57.186561"
+            },
+            {
+                "id": "0f873548-a99f-42eb-ba7d-9ac371bfaee3",
+                "subjectID": "05284687-37a8-4469-9844-3e1305e95f87",
+                "name": "Lesson 2: Basics",
+                "description": "Explore english vocabulary with lesson 2.",
+                "createdAt": "2024-12-12T07:17:57.186561",
+                "updatedAt": "2024-12-12T07:17:57.186561"
+            },
+            {
+                "id": "459813af-0be5-43af-8e71-527bde895f39",
+                "subjectID": "05284687-37a8-4469-9844-3e1305e95f87",
+                "name": "Lesson 3: Intermediate",
+                "description": "Explore english vocabulary with lesson 3.",
+                "createdAt": "2024-12-12T07:17:57.186561",
+                "updatedAt": "2024-12-12T07:17:57.186561"
+            }
+        ],
+        "createdAt": "2024-12-12T07:17:57.186561",
+        "updatedAt": "2024-12-12T07:17:57.186561"
+    },
+    {
+        "id": "d67dbfe0-56d3-4b40-889f-9934b4ba573a",
+        "name": "English Writing",
+        "description": "Learn english writing with interactive lessons and exercises.",
+        "topics": [
+            {
+                "id": "09cc6586-1e35-4df0-95c0-89207ea4d7c8",
+                "subjectID": "d67dbfe0-56d3-4b40-889f-9934b4ba573a",
+                "name": "Lesson 1: Intermediate",
+                "description": "Explore english writing with lesson 1.",
+                "createdAt": "2024-12-12T07:17:57.186601",
+                "updatedAt": "2024-12-12T07:17:57.186601"
+            },
+            {
+                "id": "7264c119-c434-4a7a-904d-80e9929bf380",
+                "subjectID": "d67dbfe0-56d3-4b40-889f-9934b4ba573a",
+                "name": "Lesson 2: Basics",
+                "description": "Explore english writing with lesson 2.",
+                "createdAt": "2024-12-12T07:17:57.186601",
+                "updatedAt": "2024-12-12T07:17:57.186601"
+            },
+            {
+                "id": "3e3cd1e0-93a4-4fd1-902c-a44bfc0ce951",
+                "subjectID": "d67dbfe0-56d3-4b40-889f-9934b4ba573a",
+                "name": "Lesson 3: Practice",
+                "description": "Explore english writing with lesson 3.",
+                "createdAt": "2024-12-12T07:17:57.186601",
+                "updatedAt": "2024-12-12T07:17:57.186601"
+            }
+        ],
+        "createdAt": "2024-12-12T07:17:57.186601",
+        "updatedAt": "2024-12-12T07:17:57.186601"
+    },
+    {
+        "id": "7921f09b-ceb8-4e6c-be0d-8a8ed0ddb5de",
+        "name": "English Vocabulary",
+        "description": "Learn english vocabulary with interactive lessons and exercises.",
+        "topics": [
+            {
+                "id": "cf208d85-5b7d-40ba-9d5a-3a19c05d64fd",
+                "subjectID": "7921f09b-ceb8-4e6c-be0d-8a8ed0ddb5de",
+                "name": "Lesson 1: Basics",
+                "description": "Explore english vocabulary with lesson 1.",
+                "createdAt": "2024-12-12T07:17:57.186649",
+                "updatedAt": "2024-12-12T07:17:57.186649"
+            },
+            {
+                "id": "571cae67-65f1-4d1f-a881-1b43b0608b0c",
+                "subjectID": "7921f09b-ceb8-4e6c-be0d-8a8ed0ddb5de",
+                "name": "Lesson 2: Practice",
+                "description": "Explore english vocabulary with lesson 2.",
+                "createdAt": "2024-12-12T07:17:57.186649",
+                "updatedAt": "2024-12-12T07:17:57.186649"
+            },
+            {
+                "id": "106dbfee-a0c5-4220-90df-5559a856ce7c",
+                "subjectID": "7921f09b-ceb8-4e6c-be0d-8a8ed0ddb5de",
+                "name": "Lesson 3: Basics",
+                "description": "Explore english vocabulary with lesson 3.",
+                "createdAt": "2024-12-12T07:17:57.186649",
+                "updatedAt": "2024-12-12T07:17:57.186649"
+            },
+            {
+                "id": "7f3b65ce-1a8d-4aa4-a16a-34491de2d3ae",
+                "subjectID": "7921f09b-ceb8-4e6c-be0d-8a8ed0ddb5de",
+                "name": "Lesson 4: Intermediate",
+                "description": "Explore english vocabulary with lesson 4.",
+                "createdAt": "2024-12-12T07:17:57.186649",
+                "updatedAt": "2024-12-12T07:17:57.186649"
+            }
+        ],
+        "createdAt": "2024-12-12T07:17:57.186649",
+        "updatedAt": "2024-12-12T07:17:57.186649"
+    }
+]

@@ -1,0 +1,994 @@
+[
+    {
+        "id": "2c379f6b-c00c-4dfa-b31b-83cb5d222864",
+        "name": "User_1332",
+        "email": "user_1332@example.com",
+        "referrerID": null,
+        "subscriptionStatus": {
+            "id": "9f24a266-adc6-4538-832c-3c11f0d6b45d",
+            "userID": "2c379f6b-c00c-4dfa-b31b-83cb5d222864",
+            "plan": "yearly",
+            "startDate": "2024-08-08T07:02:17.077731",
+            "endDate": "2025-08-08T07:02:17.077731",
+            "isActive": true,
+            "createdAt": "2024-12-12T07:02:17.077695",
+            "updatedAt": "2024-12-12T07:02:17.077695"
+        },
+        "activities": [
+            {
+                "id": "787d91d6-d795-44c8-a212-3cedb1924312",
+                "userID": "2c379f6b-c00c-4dfa-b31b-83cb5d222864",
+                "activityType": "referral",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-06T07:02:17.077778"
+            },
+            {
+                "id": "c72f4185-b6dd-4303-ba6d-31f0a0e89331",
+                "userID": "2c379f6b-c00c-4dfa-b31b-83cb5d222864",
+                "activityType": "login",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-07T07:02:17.077831"
+            },
+            {
+                "id": "35487ec8-540d-4a85-bf2a-3b96106cb834",
+                "userID": "2c379f6b-c00c-4dfa-b31b-83cb5d222864",
+                "activityType": "chat_message",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-07T07:02:17.077864"
+            }
+        ],
+        "referralLinks": [
+            {
+                "id": "8032e162-f188-4444-9c7f-4901dbc5d43b",
+                "userID": "2c379f6b-c00c-4dfa-b31b-83cb5d222864",
+                "uniqueCode": "8791dc53",
+                "createdAt": "2024-12-12T07:02:17.077695",
+                "expirationDate": "2025-06-30T07:02:17.077918"
+            },
+            {
+                "id": "08b2fcad-1f72-41fc-a5e4-29c04103b36e",
+                "userID": "2c379f6b-c00c-4dfa-b31b-83cb5d222864",
+                "uniqueCode": "cca2dd97",
+                "createdAt": "2024-12-12T07:02:17.077695",
+                "expirationDate": "2025-01-12T07:02:17.078005"
+            },
+            {
+                "id": "02871b0d-f121-4ab0-9ba2-b3b0dc4c7ec4",
+                "userID": "2c379f6b-c00c-4dfa-b31b-83cb5d222864",
+                "uniqueCode": "da8b0894",
+                "createdAt": "2024-12-12T07:02:17.077695",
+                "expirationDate": "2025-05-07T07:02:17.078092"
+            }
+        ],
+        "payments": [
+            {
+                "id": "4f5fd526-b7c7-4d96-ad2e-7bc45aeec814",
+                "userID": "2c379f6b-c00c-4dfa-b31b-83cb5d222864",
+                "paymentDate": "2024-02-29T07:02:17.078133",
+                "amount": 62.49,
+                "paymentMethod": "paypal",
+                "subscriptionType": "yearly",
+                "status": "success",
+                "createdAt": "2024-12-12T07:02:17.077695",
+                "updatedAt": "2024-12-12T07:02:17.077695"
+            },
+            {
+                "id": "6b2895ad-bb58-4449-98ff-a5849c40d44a",
+                "userID": "2c379f6b-c00c-4dfa-b31b-83cb5d222864",
+                "paymentDate": "2024-03-05T07:02:17.078188",
+                "amount": 57.61,
+                "paymentMethod": "paypal",
+                "subscriptionType": "monthly",
+                "status": "pending",
+                "createdAt": "2024-12-12T07:02:17.077695",
+                "updatedAt": "2024-12-12T07:02:17.077695"
+            },
+            {
+                "id": "63fc9fdf-1d59-4f11-842f-2df5c5f38be6",
+                "userID": "2c379f6b-c00c-4dfa-b31b-83cb5d222864",
+                "paymentDate": "2024-09-19T07:02:17.078218",
+                "amount": 78.08,
+                "paymentMethod": "paypal",
+                "subscriptionType": "monthly",
+                "status": "success",
+                "createdAt": "2024-12-12T07:02:17.077695",
+                "updatedAt": "2024-12-12T07:02:17.077695"
+            }
+        ],
+        "createdAt": "2024-12-12T07:02:17.077695",
+        "updatedAt": "2024-12-12T07:02:17.077695"
+    },
+    {
+        "id": "e643aeef-f6c8-49e5-bf10-0f52428d350d",
+        "name": "User_3947",
+        "email": "user_3947@example.com",
+        "referrerID": null,
+        "subscriptionStatus": {
+            "id": "02040cfe-ce31-4483-b910-f7f45b754193",
+            "userID": "e643aeef-f6c8-49e5-bf10-0f52428d350d",
+            "plan": "yearly",
+            "startDate": "2024-08-23T07:02:17.078286",
+            "endDate": "2025-08-23T07:02:17.078286",
+            "isActive": true,
+            "createdAt": "2024-12-12T07:02:17.078268",
+            "updatedAt": "2024-12-12T07:02:17.078268"
+        },
+        "activities": [
+            {
+                "id": "acd91058-d27a-4028-877e-fd1cc5ddc7ea",
+                "userID": "e643aeef-f6c8-49e5-bf10-0f52428d350d",
+                "activityType": "chat_message",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-14T07:02:17.078335"
+            }
+        ],
+        "referralLinks": [
+            {
+                "id": "4d5af813-0c4f-4f22-80e2-a2b939573cbd",
+                "userID": "e643aeef-f6c8-49e5-bf10-0f52428d350d",
+                "uniqueCode": "1d454cdf",
+                "createdAt": "2024-12-12T07:02:17.078268",
+                "expirationDate": "2025-10-25T07:02:17.078395"
+            }
+        ],
+        "payments": [
+            {
+                "id": "59e0b849-d25c-4358-a639-d942c3309bed",
+                "userID": "e643aeef-f6c8-49e5-bf10-0f52428d350d",
+                "paymentDate": "2024-04-24T07:02:17.078415",
+                "amount": 67.46,
+                "paymentMethod": "paypal",
+                "subscriptionType": "yearly",
+                "status": "pending",
+                "createdAt": "2024-12-12T07:02:17.078268",
+                "updatedAt": "2024-12-12T07:02:17.078268"
+            },
+            {
+                "id": "646caf8a-8462-4bd2-867d-092c40700fa4",
+                "userID": "e643aeef-f6c8-49e5-bf10-0f52428d350d",
+                "paymentDate": "2024-03-26T07:02:17.078441",
+                "amount": 91.42,
+                "paymentMethod": "credit_card",
+                "subscriptionType": "monthly",
+                "status": "failed",
+                "createdAt": "2024-12-12T07:02:17.078268",
+                "updatedAt": "2024-12-12T07:02:17.078268"
+            },
+            {
+                "id": "bf196ba9-f68c-469e-ad57-227658143865",
+                "userID": "e643aeef-f6c8-49e5-bf10-0f52428d350d",
+                "paymentDate": "2024-11-03T07:02:17.078613",
+                "amount": 94.37,
+                "paymentMethod": "paypal",
+                "subscriptionType": "monthly",
+                "status": "success",
+                "createdAt": "2024-12-12T07:02:17.078268",
+                "updatedAt": "2024-12-12T07:02:17.078268"
+            },
+            {
+                "id": "c2dc2e4d-6543-48f2-a3a2-c45d257a8a4e",
+                "userID": "e643aeef-f6c8-49e5-bf10-0f52428d350d",
+                "paymentDate": "2024-03-03T07:02:17.078655",
+                "amount": 95.52,
+                "paymentMethod": "paypal",
+                "subscriptionType": "yearly",
+                "status": "failed",
+                "createdAt": "2024-12-12T07:02:17.078268",
+                "updatedAt": "2024-12-12T07:02:17.078268"
+            }
+        ],
+        "createdAt": "2024-12-12T07:02:17.078268",
+        "updatedAt": "2024-12-12T07:02:17.078268"
+    },
+    {
+        "id": "f4505693-575d-4b03-a0da-561ef8bf6fed",
+        "name": "User_1716",
+        "email": "user_1716@example.com",
+        "referrerID": "4dd880b5-a1eb-490f-b174-9c5e7fa5e9c6",
+        "subscriptionStatus": {
+            "id": "bf70413b-943d-4bab-99d0-b5796b08ceef",
+            "userID": "f4505693-575d-4b03-a0da-561ef8bf6fed",
+            "plan": "monthly",
+            "startDate": "2024-05-01T07:02:17.078716",
+            "endDate": "2024-05-31T07:02:17.078716",
+            "isActive": false,
+            "createdAt": "2024-12-12T07:02:17.078696",
+            "updatedAt": "2024-12-12T07:02:17.078696"
+        },
+        "activities": [
+            {
+                "id": "1a0f5a4a-e9a6-460f-aacb-52ff8ee03641",
+                "userID": "f4505693-575d-4b03-a0da-561ef8bf6fed",
+                "activityType": "login",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-17T07:02:17.078734"
+            },
+            {
+                "id": "77842782-6984-4f87-9bf6-1bd1543843f2",
+                "userID": "f4505693-575d-4b03-a0da-561ef8bf6fed",
+                "activityType": "chat_message",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-04T07:02:17.078748"
+            },
+            {
+                "id": "73bcad0d-e6b2-4b7f-8170-cf2f8d8222ce",
+                "userID": "f4505693-575d-4b03-a0da-561ef8bf6fed",
+                "activityType": "referral",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-04T07:02:17.078763"
+            }
+        ],
+        "referralLinks": [
+            {
+                "id": "b8133053-5d79-43b3-8a0d-3ac2207c2206",
+                "userID": "f4505693-575d-4b03-a0da-561ef8bf6fed",
+                "uniqueCode": "be70d18c",
+                "createdAt": "2024-12-12T07:02:17.078696",
+                "expirationDate": "2025-09-28T07:02:17.078786"
+            }
+        ],
+        "payments": [
+            {
+                "id": "8e108ffb-bb2e-4be1-88db-06b33191c943",
+                "userID": "f4505693-575d-4b03-a0da-561ef8bf6fed",
+                "paymentDate": "2024-01-04T07:02:17.078801",
+                "amount": 20.55,
+                "paymentMethod": "credit_card",
+                "subscriptionType": "monthly",
+                "status": "success",
+                "createdAt": "2024-12-12T07:02:17.078696",
+                "updatedAt": "2024-12-12T07:02:17.078696"
+            },
+            {
+                "id": "5a1ca9fa-cfe7-4c24-afc0-c06be39f9528",
+                "userID": "f4505693-575d-4b03-a0da-561ef8bf6fed",
+                "paymentDate": "2024-10-19T07:02:17.078820",
+                "amount": 45.71,
+                "paymentMethod": "credit_card",
+                "subscriptionType": "monthly",
+                "status": "success",
+                "createdAt": "2024-12-12T07:02:17.078696",
+                "updatedAt": "2024-12-12T07:02:17.078696"
+            },
+            {
+                "id": "3d2de160-0064-4f3f-be49-4ac407bd9699",
+                "userID": "f4505693-575d-4b03-a0da-561ef8bf6fed",
+                "paymentDate": "2024-03-01T07:02:17.078836",
+                "amount": 33.16,
+                "paymentMethod": "paypal",
+                "subscriptionType": "monthly",
+                "status": "failed",
+                "createdAt": "2024-12-12T07:02:17.078696",
+                "updatedAt": "2024-12-12T07:02:17.078696"
+            },
+            {
+                "id": "c4da18e8-d113-4b0d-ba1d-bdd6776a66a5",
+                "userID": "f4505693-575d-4b03-a0da-561ef8bf6fed",
+                "paymentDate": "2023-12-20T07:02:17.078861",
+                "amount": 51.13,
+                "paymentMethod": "paypal",
+                "subscriptionType": "yearly",
+                "status": "pending",
+                "createdAt": "2024-12-12T07:02:17.078696",
+                "updatedAt": "2024-12-12T07:02:17.078696"
+            },
+            {
+                "id": "774fed31-5bb1-4a46-a39b-86aa1fb72f96",
+                "userID": "f4505693-575d-4b03-a0da-561ef8bf6fed",
+                "paymentDate": "2023-12-24T07:02:17.078878",
+                "amount": 79.8,
+                "paymentMethod": "paypal",
+                "subscriptionType": "yearly",
+                "status": "failed",
+                "createdAt": "2024-12-12T07:02:17.078696",
+                "updatedAt": "2024-12-12T07:02:17.078696"
+            }
+        ],
+        "createdAt": "2024-12-12T07:02:17.078696",
+        "updatedAt": "2024-12-12T07:02:17.078696"
+    },
+    {
+        "id": "23bd7fad-e2f9-4f35-950b-4fe3cf43be83",
+        "name": "User_9247",
+        "email": "user_9247@example.com",
+        "referrerID": "767471c4-3846-4dcf-84f3-b7c4381bbfc4",
+        "subscriptionStatus": {
+            "id": "018637db-d15e-41bf-ac3d-5087cae2d0e5",
+            "userID": "23bd7fad-e2f9-4f35-950b-4fe3cf43be83",
+            "plan": "yearly",
+            "startDate": "2024-07-16T07:02:17.078936",
+            "endDate": "2025-07-16T07:02:17.078936",
+            "isActive": true,
+            "createdAt": "2024-12-12T07:02:17.078915",
+            "updatedAt": "2024-12-12T07:02:17.078915"
+        },
+        "activities": [
+            {
+                "id": "7b2c14f5-e425-4c63-9fb3-db05e12b5917",
+                "userID": "23bd7fad-e2f9-4f35-950b-4fe3cf43be83",
+                "activityType": "chat_message",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-04T07:02:17.078951"
+            },
+            {
+                "id": "263a0289-0ff8-4904-8566-8bba75e66d7d",
+                "userID": "23bd7fad-e2f9-4f35-950b-4fe3cf43be83",
+                "activityType": "referral",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-18T07:02:17.078965"
+            },
+            {
+                "id": "9f2d93e2-3636-4332-b5d6-6f3c307ca66c",
+                "userID": "23bd7fad-e2f9-4f35-950b-4fe3cf43be83",
+                "activityType": "referral",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-02T07:02:17.078978"
+            },
+            {
+                "id": "08bb0b8d-ee4d-4121-9054-881a029166e6",
+                "userID": "23bd7fad-e2f9-4f35-950b-4fe3cf43be83",
+                "activityType": "referral",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-09T07:02:17.078991"
+            }
+        ],
+        "referralLinks": [
+            {
+                "id": "1a231521-cc66-43a5-9ffe-f786d77c81c8",
+                "userID": "23bd7fad-e2f9-4f35-950b-4fe3cf43be83",
+                "uniqueCode": "caf00878",
+                "createdAt": "2024-12-12T07:02:17.078915",
+                "expirationDate": "2025-07-19T07:02:17.079012"
+            }
+        ],
+        "payments": [
+            {
+                "id": "9e8c0b23-2084-43f1-aac3-6247d7b0c6ee",
+                "userID": "23bd7fad-e2f9-4f35-950b-4fe3cf43be83",
+                "paymentDate": "2024-11-01T07:02:17.079027",
+                "amount": 84.34,
+                "paymentMethod": "paypal",
+                "subscriptionType": "monthly",
+                "status": "success",
+                "createdAt": "2024-12-12T07:02:17.078915",
+                "updatedAt": "2024-12-12T07:02:17.078915"
+            },
+            {
+                "id": "d99d1477-1dfd-4e43-82b5-0d2597281d3e",
+                "userID": "23bd7fad-e2f9-4f35-950b-4fe3cf43be83",
+                "paymentDate": "2024-11-09T07:02:17.079043",
+                "amount": 48.23,
+                "paymentMethod": "paypal",
+                "subscriptionType": "yearly",
+                "status": "pending",
+                "createdAt": "2024-12-12T07:02:17.078915",
+                "updatedAt": "2024-12-12T07:02:17.078915"
+            }
+        ],
+        "createdAt": "2024-12-12T07:02:17.078915",
+        "updatedAt": "2024-12-12T07:02:17.078915"
+    },
+    {
+        "id": "54859ba6-6bf9-4f5a-a8c4-1ba86a54a9e1",
+        "name": "User_3692",
+        "email": "user_3692@example.com",
+        "referrerID": "c03636f4-314a-4ea3-b29a-e2a7538ac37a",
+        "subscriptionStatus": {
+            "id": "745d5307-6801-4e0d-9ace-318282084292",
+            "userID": "54859ba6-6bf9-4f5a-a8c4-1ba86a54a9e1",
+            "plan": "monthly",
+            "startDate": "2024-04-10T07:02:17.079134",
+            "endDate": "2024-05-10T07:02:17.079134",
+            "isActive": false,
+            "createdAt": "2024-12-12T07:02:17.079101",
+            "updatedAt": "2024-12-12T07:02:17.079101"
+        },
+        "activities": [
+            {
+                "id": "581fc4b7-45c4-4016-ba2a-8dc693905488",
+                "userID": "54859ba6-6bf9-4f5a-a8c4-1ba86a54a9e1",
+                "activityType": "referral",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-28T07:02:17.079160"
+            },
+            {
+                "id": "2a77df33-deef-4d60-8c9c-5957b59895b1",
+                "userID": "54859ba6-6bf9-4f5a-a8c4-1ba86a54a9e1",
+                "activityType": "referral",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-25T07:02:17.079185"
+            },
+            {
+                "id": "1b9ea168-606f-40b0-ac78-e5c8f6e4791b",
+                "userID": "54859ba6-6bf9-4f5a-a8c4-1ba86a54a9e1",
+                "activityType": "referral",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-20T07:02:17.079198"
+            },
+            {
+                "id": "7211874f-c5ba-40c2-9d19-64005bc4df80",
+                "userID": "54859ba6-6bf9-4f5a-a8c4-1ba86a54a9e1",
+                "activityType": "login",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-02T07:02:17.079211"
+            },
+            {
+                "id": "f575b212-cbcf-4ccc-983d-c0ef6a963fe3",
+                "userID": "54859ba6-6bf9-4f5a-a8c4-1ba86a54a9e1",
+                "activityType": "login",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-16T07:02:17.079224"
+            }
+        ],
+        "referralLinks": [
+            {
+                "id": "2d484c83-9a4a-4515-b135-ee00c67d5af7",
+                "userID": "54859ba6-6bf9-4f5a-a8c4-1ba86a54a9e1",
+                "uniqueCode": "d97b982c",
+                "createdAt": "2024-12-12T07:02:17.079101",
+                "expirationDate": "2025-02-20T07:02:17.079249"
+            },
+            {
+                "id": "95d58e3c-7cf5-42a4-b484-c12b42007b10",
+                "userID": "54859ba6-6bf9-4f5a-a8c4-1ba86a54a9e1",
+                "uniqueCode": "520a683a",
+                "createdAt": "2024-12-12T07:02:17.079101",
+                "expirationDate": "2025-01-04T07:02:17.079268"
+            },
+            {
+                "id": "3b155870-40f2-4b10-aac0-d2f407c8b396",
+                "userID": "54859ba6-6bf9-4f5a-a8c4-1ba86a54a9e1",
+                "uniqueCode": "248feddd",
+                "createdAt": "2024-12-12T07:02:17.079101",
+                "expirationDate": "2025-10-21T07:02:17.079288"
+            }
+        ],
+        "payments": [
+            {
+                "id": "c82f6952-f030-4b63-80f1-a1aef7e76512",
+                "userID": "54859ba6-6bf9-4f5a-a8c4-1ba86a54a9e1",
+                "paymentDate": "2024-09-05T07:02:17.079341",
+                "amount": 13.0,
+                "paymentMethod": "paypal",
+                "subscriptionType": "yearly",
+                "status": "success",
+                "createdAt": "2024-12-12T07:02:17.079101",
+                "updatedAt": "2024-12-12T07:02:17.079101"
+            }
+        ],
+        "createdAt": "2024-12-12T07:02:17.079101",
+        "updatedAt": "2024-12-12T07:02:17.079101"
+    },
+    {
+        "id": "f05b5a0c-e1b8-47ef-bc33-6cc7d2ea3a9d",
+        "name": "User_8697",
+        "email": "user_8697@example.com",
+        "referrerID": null,
+        "subscriptionStatus": {
+            "id": "d7250663-180e-4b72-9a5b-085c501385d6",
+            "userID": "f05b5a0c-e1b8-47ef-bc33-6cc7d2ea3a9d",
+            "plan": "yearly",
+            "startDate": "2024-04-12T07:02:17.079396",
+            "endDate": "2025-04-12T07:02:17.079396",
+            "isActive": true,
+            "createdAt": "2024-12-12T07:02:17.079381",
+            "updatedAt": "2024-12-12T07:02:17.079381"
+        },
+        "activities": [
+            {
+                "id": "eb3748eb-d933-4a59-9b9d-71bab83e1d7f",
+                "userID": "f05b5a0c-e1b8-47ef-bc33-6cc7d2ea3a9d",
+                "activityType": "login",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-04T07:02:17.079421"
+            },
+            {
+                "id": "2b4e61d9-5d57-4eb3-b646-2c73435e72ec",
+                "userID": "f05b5a0c-e1b8-47ef-bc33-6cc7d2ea3a9d",
+                "activityType": "chat_message",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-18T07:02:17.079735"
+            },
+            {
+                "id": "d2b8a97c-910d-46aa-9846-9b63bf2295b8",
+                "userID": "f05b5a0c-e1b8-47ef-bc33-6cc7d2ea3a9d",
+                "activityType": "login",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-09T07:02:17.079787"
+            },
+            {
+                "id": "29d475f0-868f-4a90-9650-020f22201aa5",
+                "userID": "f05b5a0c-e1b8-47ef-bc33-6cc7d2ea3a9d",
+                "activityType": "login",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-01T07:02:17.079799"
+            },
+            {
+                "id": "7ad431e7-f5b0-459c-83d2-5b7f7fb8dcf1",
+                "userID": "f05b5a0c-e1b8-47ef-bc33-6cc7d2ea3a9d",
+                "activityType": "chat_message",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-28T07:02:17.079812"
+            }
+        ],
+        "referralLinks": [
+            {
+                "id": "fe07637c-cb40-41e9-a036-d49301062d9e",
+                "userID": "f05b5a0c-e1b8-47ef-bc33-6cc7d2ea3a9d",
+                "uniqueCode": "1d9ac5f0",
+                "createdAt": "2024-12-12T07:02:17.079381",
+                "expirationDate": "2025-11-15T07:02:17.079852"
+            }
+        ],
+        "payments": [
+            {
+                "id": "fd3539a8-9816-4312-9deb-67e54aaebe87",
+                "userID": "f05b5a0c-e1b8-47ef-bc33-6cc7d2ea3a9d",
+                "paymentDate": "2024-12-01T07:02:17.079879",
+                "amount": 41.67,
+                "paymentMethod": "credit_card",
+                "subscriptionType": "yearly",
+                "status": "failed",
+                "createdAt": "2024-12-12T07:02:17.079381",
+                "updatedAt": "2024-12-12T07:02:17.079381"
+            },
+            {
+                "id": "c61cf3e1-824a-4c1b-9d8c-8a1807086ec1",
+                "userID": "f05b5a0c-e1b8-47ef-bc33-6cc7d2ea3a9d",
+                "paymentDate": "2024-06-06T07:02:17.079951",
+                "amount": 76.1,
+                "paymentMethod": "paypal",
+                "subscriptionType": "monthly",
+                "status": "failed",
+                "createdAt": "2024-12-12T07:02:17.079381",
+                "updatedAt": "2024-12-12T07:02:17.079381"
+            }
+        ],
+        "createdAt": "2024-12-12T07:02:17.079381",
+        "updatedAt": "2024-12-12T07:02:17.079381"
+    },
+    {
+        "id": "fb31195f-a665-4682-ae84-433037c2787f",
+        "name": "User_4979",
+        "email": "user_4979@example.com",
+        "referrerID": "36f1f03c-49ed-4d85-a0d7-5d2da681f08e",
+        "subscriptionStatus": {
+            "id": "9409edc6-f247-47a6-be72-c71808b3a637",
+            "userID": "fb31195f-a665-4682-ae84-433037c2787f",
+            "plan": "yearly",
+            "startDate": "2024-11-03T07:02:17.080012",
+            "endDate": "2025-11-03T07:02:17.080012",
+            "isActive": true,
+            "createdAt": "2024-12-12T07:02:17.079990",
+            "updatedAt": "2024-12-12T07:02:17.079990"
+        },
+        "activities": [
+            {
+                "id": "d3ad6427-d35f-4727-86aa-7ba4317b8791",
+                "userID": "fb31195f-a665-4682-ae84-433037c2787f",
+                "activityType": "login",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-07T07:02:17.080031"
+            },
+            {
+                "id": "0c6a3015-15f5-44fe-b8d3-eca8f7768571",
+                "userID": "fb31195f-a665-4682-ae84-433037c2787f",
+                "activityType": "referral",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-25T07:02:17.080059"
+            },
+            {
+                "id": "933647e6-1311-4daa-ab1b-c32c10c3c6c4",
+                "userID": "fb31195f-a665-4682-ae84-433037c2787f",
+                "activityType": "login",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-02T07:02:17.080457"
+            },
+            {
+                "id": "901c1aeb-a2d2-4b38-b4d2-f50d418d77c8",
+                "userID": "fb31195f-a665-4682-ae84-433037c2787f",
+                "activityType": "chat_message",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-26T07:02:17.080499"
+            },
+            {
+                "id": "c94779e7-b172-47c6-ac3c-600dccf44933",
+                "userID": "fb31195f-a665-4682-ae84-433037c2787f",
+                "activityType": "referral",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-03T07:02:17.080511"
+            }
+        ],
+        "referralLinks": [
+            {
+                "id": "e07d6b21-1518-499c-91c8-3353fb305131",
+                "userID": "fb31195f-a665-4682-ae84-433037c2787f",
+                "uniqueCode": "9f8d5b69",
+                "createdAt": "2024-12-12T07:02:17.079990",
+                "expirationDate": "2025-03-30T07:02:17.080530"
+            },
+            {
+                "id": "56783f7b-59ef-432c-b0c5-0f5d810b9c6c",
+                "userID": "fb31195f-a665-4682-ae84-433037c2787f",
+                "uniqueCode": "a8c5d546",
+                "createdAt": "2024-12-12T07:02:17.079990",
+                "expirationDate": "2025-08-31T07:02:17.080544"
+            }
+        ],
+        "payments": [
+            {
+                "id": "e2e3cbb6-ca3b-44b1-97e4-8b7a738a8cf7",
+                "userID": "fb31195f-a665-4682-ae84-433037c2787f",
+                "paymentDate": "2024-05-10T07:02:17.080557",
+                "amount": 61.19,
+                "paymentMethod": "credit_card",
+                "subscriptionType": "yearly",
+                "status": "success",
+                "createdAt": "2024-12-12T07:02:17.079990",
+                "updatedAt": "2024-12-12T07:02:17.079990"
+            },
+            {
+                "id": "9d8a859f-a7fb-436a-a7b0-b5aaa32f775a",
+                "userID": "fb31195f-a665-4682-ae84-433037c2787f",
+                "paymentDate": "2024-03-28T07:02:17.080576",
+                "amount": 50.86,
+                "paymentMethod": "paypal",
+                "subscriptionType": "monthly",
+                "status": "failed",
+                "createdAt": "2024-12-12T07:02:17.079990",
+                "updatedAt": "2024-12-12T07:02:17.079990"
+            }
+        ],
+        "createdAt": "2024-12-12T07:02:17.079990",
+        "updatedAt": "2024-12-12T07:02:17.079990"
+    },
+    {
+        "id": "c174329b-5fc8-4acf-80f9-9f44fb19073e",
+        "name": "User_7957",
+        "email": "user_7957@example.com",
+        "referrerID": "34070832-0cfe-4bf5-b60f-4b00bfcde203",
+        "subscriptionStatus": {
+            "id": "e3484ded-f332-4a89-8dc0-704a566f8a1f",
+            "userID": "c174329b-5fc8-4acf-80f9-9f44fb19073e",
+            "plan": "yearly",
+            "startDate": "2024-09-06T07:02:17.080627",
+            "endDate": "2025-09-06T07:02:17.080627",
+            "isActive": true,
+            "createdAt": "2024-12-12T07:02:17.080613",
+            "updatedAt": "2024-12-12T07:02:17.080613"
+        },
+        "activities": [
+            {
+                "id": "02807f68-0358-405c-a62b-5b80135c3998",
+                "userID": "c174329b-5fc8-4acf-80f9-9f44fb19073e",
+                "activityType": "chat_message",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-27T07:02:17.080640"
+            },
+            {
+                "id": "4d6899ae-295a-4520-9a98-74d606ae97cd",
+                "userID": "c174329b-5fc8-4acf-80f9-9f44fb19073e",
+                "activityType": "referral",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-30T07:02:17.080653"
+            },
+            {
+                "id": "ed1fcc7f-7228-4509-93f9-9dd212f3efd2",
+                "userID": "c174329b-5fc8-4acf-80f9-9f44fb19073e",
+                "activityType": "chat_message",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-11T07:02:17.080662"
+            },
+            {
+                "id": "eabd797e-d7eb-4554-8ead-c9af07081a08",
+                "userID": "c174329b-5fc8-4acf-80f9-9f44fb19073e",
+                "activityType": "referral",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-13T07:02:17.080670"
+            }
+        ],
+        "referralLinks": [
+            {
+                "id": "5ea98ab0-8e37-4bd0-9944-2e5650bdec28",
+                "userID": "c174329b-5fc8-4acf-80f9-9f44fb19073e",
+                "uniqueCode": "906c27fc",
+                "createdAt": "2024-12-12T07:02:17.080613",
+                "expirationDate": "2025-09-09T07:02:17.080685"
+            },
+            {
+                "id": "21e0e615-84d5-497d-b225-3dae0eebb524",
+                "userID": "c174329b-5fc8-4acf-80f9-9f44fb19073e",
+                "uniqueCode": "4dbe195d",
+                "createdAt": "2024-12-12T07:02:17.080613",
+                "expirationDate": "2024-12-30T07:02:17.080704"
+            }
+        ],
+        "payments": [
+            {
+                "id": "efa50c7e-35ae-4792-bf20-0e2037b16cb9",
+                "userID": "c174329b-5fc8-4acf-80f9-9f44fb19073e",
+                "paymentDate": "2024-02-16T07:02:17.080718",
+                "amount": 17.38,
+                "paymentMethod": "paypal",
+                "subscriptionType": "monthly",
+                "status": "success",
+                "createdAt": "2024-12-12T07:02:17.080613",
+                "updatedAt": "2024-12-12T07:02:17.080613"
+            },
+            {
+                "id": "95e1ac4b-7cb1-4362-a3a5-67f4ab68b18e",
+                "userID": "c174329b-5fc8-4acf-80f9-9f44fb19073e",
+                "paymentDate": "2024-01-01T07:02:17.080730",
+                "amount": 99.36,
+                "paymentMethod": "credit_card",
+                "subscriptionType": "monthly",
+                "status": "failed",
+                "createdAt": "2024-12-12T07:02:17.080613",
+                "updatedAt": "2024-12-12T07:02:17.080613"
+            },
+            {
+                "id": "9f79f00e-9887-4f78-a5eb-6c52708877ce",
+                "userID": "c174329b-5fc8-4acf-80f9-9f44fb19073e",
+                "paymentDate": "2024-09-30T07:02:17.080741",
+                "amount": 19.71,
+                "paymentMethod": "paypal",
+                "subscriptionType": "yearly",
+                "status": "failed",
+                "createdAt": "2024-12-12T07:02:17.080613",
+                "updatedAt": "2024-12-12T07:02:17.080613"
+            }
+        ],
+        "createdAt": "2024-12-12T07:02:17.080613",
+        "updatedAt": "2024-12-12T07:02:17.080613"
+    },
+    {
+        "id": "32b9ffd8-e0cd-4aca-8c3c-ea0b5c58fe27",
+        "name": "User_7203",
+        "email": "user_7203@example.com",
+        "referrerID": null,
+        "subscriptionStatus": {
+            "id": "88e69833-ebf7-4af0-ba90-5d1079212fd1",
+            "userID": "32b9ffd8-e0cd-4aca-8c3c-ea0b5c58fe27",
+            "plan": "monthly",
+            "startDate": "2024-01-19T07:02:17.080765",
+            "endDate": "2024-02-18T07:02:17.080765",
+            "isActive": false,
+            "createdAt": "2024-12-12T07:02:17.080757",
+            "updatedAt": "2024-12-12T07:02:17.080757"
+        },
+        "activities": [
+            {
+                "id": "db9f5674-7507-46bc-81c5-6003ffdba513",
+                "userID": "32b9ffd8-e0cd-4aca-8c3c-ea0b5c58fe27",
+                "activityType": "chat_message",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-15T07:02:17.080776"
+            },
+            {
+                "id": "382a2337-0610-482e-8922-5dba85f04c35",
+                "userID": "32b9ffd8-e0cd-4aca-8c3c-ea0b5c58fe27",
+                "activityType": "login",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-06T07:02:17.080785"
+            },
+            {
+                "id": "35a473cf-b9d7-4572-a4d0-f7b32d1e7c44",
+                "userID": "32b9ffd8-e0cd-4aca-8c3c-ea0b5c58fe27",
+                "activityType": "login",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-08T07:02:17.080794"
+            },
+            {
+                "id": "68ad270a-4953-40e3-9a01-9f99c42ab01c",
+                "userID": "32b9ffd8-e0cd-4aca-8c3c-ea0b5c58fe27",
+                "activityType": "chat_message",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-15T07:02:17.080802"
+            }
+        ],
+        "referralLinks": [
+            {
+                "id": "b4aa63a3-f9e3-442f-92be-4abeb45eeef5",
+                "userID": "32b9ffd8-e0cd-4aca-8c3c-ea0b5c58fe27",
+                "uniqueCode": "05da3cf0",
+                "createdAt": "2024-12-12T07:02:17.080757",
+                "expirationDate": "2025-03-19T07:02:17.080817"
+            },
+            {
+                "id": "eb14b9e0-f7d6-4172-9f45-9c8dcb9c01cc",
+                "userID": "32b9ffd8-e0cd-4aca-8c3c-ea0b5c58fe27",
+                "uniqueCode": "00daa703",
+                "createdAt": "2024-12-12T07:02:17.080757",
+                "expirationDate": "2025-06-02T07:02:17.080830"
+            }
+        ],
+        "payments": [
+            {
+                "id": "5288a9b3-22a0-4142-8315-dfefbd351f08",
+                "userID": "32b9ffd8-e0cd-4aca-8c3c-ea0b5c58fe27",
+                "paymentDate": "2024-03-12T07:02:17.080840",
+                "amount": 31.17,
+                "paymentMethod": "paypal",
+                "subscriptionType": "yearly",
+                "status": "pending",
+                "createdAt": "2024-12-12T07:02:17.080757",
+                "updatedAt": "2024-12-12T07:02:17.080757"
+            },
+            {
+                "id": "e6359891-f893-4408-bceb-fe6992c198c7",
+                "userID": "32b9ffd8-e0cd-4aca-8c3c-ea0b5c58fe27",
+                "paymentDate": "2024-03-26T07:02:17.080890",
+                "amount": 75.01,
+                "paymentMethod": "credit_card",
+                "subscriptionType": "yearly",
+                "status": "success",
+                "createdAt": "2024-12-12T07:02:17.080757",
+                "updatedAt": "2024-12-12T07:02:17.080757"
+            },
+            {
+                "id": "09829c2f-fa9f-42e0-83fc-fbeaa5bc4356",
+                "userID": "32b9ffd8-e0cd-4aca-8c3c-ea0b5c58fe27",
+                "paymentDate": "2024-11-18T07:02:17.080904",
+                "amount": 25.33,
+                "paymentMethod": "credit_card",
+                "subscriptionType": "monthly",
+                "status": "failed",
+                "createdAt": "2024-12-12T07:02:17.080757",
+                "updatedAt": "2024-12-12T07:02:17.080757"
+            },
+            {
+                "id": "8b14d29b-7d10-4264-a3de-2f6aca75797a",
+                "userID": "32b9ffd8-e0cd-4aca-8c3c-ea0b5c58fe27",
+                "paymentDate": "2024-06-03T07:02:17.080948",
+                "amount": 88.75,
+                "paymentMethod": "credit_card",
+                "subscriptionType": "yearly",
+                "status": "pending",
+                "createdAt": "2024-12-12T07:02:17.080757",
+                "updatedAt": "2024-12-12T07:02:17.080757"
+            }
+        ],
+        "createdAt": "2024-12-12T07:02:17.080757",
+        "updatedAt": "2024-12-12T07:02:17.080757"
+    },
+    {
+        "id": "a3ef814f-8552-45a7-b225-9e742c4ba456",
+        "name": "User_3024",
+        "email": "user_3024@example.com",
+        "referrerID": null,
+        "subscriptionStatus": {
+            "id": "9688bb6a-4f80-4cbb-9054-b78bb9359539",
+            "userID": "a3ef814f-8552-45a7-b225-9e742c4ba456",
+            "plan": "yearly",
+            "startDate": "2024-02-17T07:02:17.080974",
+            "endDate": "2025-02-16T07:02:17.080974",
+            "isActive": true,
+            "createdAt": "2024-12-12T07:02:17.080966",
+            "updatedAt": "2024-12-12T07:02:17.080966"
+        },
+        "activities": [
+            {
+                "id": "3fb60ec0-e2e7-4d0a-94c5-2a72aa552b34",
+                "userID": "a3ef814f-8552-45a7-b225-9e742c4ba456",
+                "activityType": "chat_message",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-26T07:02:17.080985"
+            },
+            {
+                "id": "c003c55b-0a77-46bb-a24f-5472ab1cbcc4",
+                "userID": "a3ef814f-8552-45a7-b225-9e742c4ba456",
+                "activityType": "chat_message",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-12T07:02:17.080995"
+            }
+        ],
+        "referralLinks": [
+            {
+                "id": "59113e5d-bc05-4e3d-9728-16f155e7ba4f",
+                "userID": "a3ef814f-8552-45a7-b225-9e742c4ba456",
+                "uniqueCode": "1f80da6b",
+                "createdAt": "2024-12-12T07:02:17.080966",
+                "expirationDate": "2025-12-07T07:02:17.081027"
+            }
+        ],
+        "payments": [
+            {
+                "id": "8af30931-ad04-4bfa-b429-6cb887ab1dc4",
+                "userID": "a3ef814f-8552-45a7-b225-9e742c4ba456",
+                "paymentDate": "2024-09-15T07:02:17.081041",
+                "amount": 28.97,
+                "paymentMethod": "credit_card",
+                "subscriptionType": "monthly",
+                "status": "failed",
+                "createdAt": "2024-12-12T07:02:17.080966",
+                "updatedAt": "2024-12-12T07:02:17.080966"
+            }
+        ],
+        "createdAt": "2024-12-12T07:02:17.080966",
+        "updatedAt": "2024-12-12T07:02:17.080966"
+    },
+    {
+        "id": "ffdbc3e0-2926-4938-9de9-a1edbdf0226d",
+        "name": "User_3466",
+        "email": "user_3466@example.com",
+        "referrerID": "db78cc4a-19c1-4320-b681-abc994933960",
+        "subscriptionStatus": {
+            "id": "6d0a5134-f58a-4de4-af85-f2b083dbc78b",
+            "userID": "ffdbc3e0-2926-4938-9de9-a1edbdf0226d",
+            "plan": "monthly",
+            "startDate": "2024-07-07T07:02:17.081071",
+            "endDate": "2024-08-06T07:02:17.081071",
+            "isActive": false,
+            "createdAt": "2024-12-12T07:02:17.081058",
+            "updatedAt": "2024-12-12T07:02:17.081058"
+        },
+        "activities": [
+            {
+                "id": "a360a5f1-42dd-47bc-a0fc-e7d336c80e26",
+                "userID": "ffdbc3e0-2926-4938-9de9-a1edbdf0226d",
+                "activityType": "referral",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-25T07:02:17.081081"
+            },
+            {
+                "id": "d7203cb7-35a9-4b39-b2ed-34b7fc75d54b",
+                "userID": "ffdbc3e0-2926-4938-9de9-a1edbdf0226d",
+                "activityType": "chat_message",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-11T07:02:17.081090"
+            },
+            {
+                "id": "012518c5-e7a6-4787-ac7c-2e23f2352b72",
+                "userID": "ffdbc3e0-2926-4938-9de9-a1edbdf0226d",
+                "activityType": "referral",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-15T07:02:17.081103"
+            },
+            {
+                "id": "4cfab68d-5bc2-45d9-b8aa-b62e37321f24",
+                "userID": "ffdbc3e0-2926-4938-9de9-a1edbdf0226d",
+                "activityType": "referral",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-12-07T07:02:17.081116"
+            },
+            {
+                "id": "11c8aae5-aae4-4ca3-a027-aeee5619bf58",
+                "userID": "ffdbc3e0-2926-4938-9de9-a1edbdf0226d",
+                "activityType": "chat_message",
+                "activityDetails": "Sample details",
+                "createdAt": "2024-11-17T07:02:17.081129"
+            }
+        ],
+        "referralLinks": [
+            {
+                "id": "fbf38974-52b0-4f30-9515-26451dec5e95",
+                "userID": "ffdbc3e0-2926-4938-9de9-a1edbdf0226d",
+                "uniqueCode": "7908b5d9",
+                "createdAt": "2024-12-12T07:02:17.081058",
+                "expirationDate": "2024-12-28T07:02:17.081149"
+            },
+            {
+                "id": "dea520c5-620f-485d-b3d1-1a3778d079b1",
+                "userID": "ffdbc3e0-2926-4938-9de9-a1edbdf0226d",
+                "uniqueCode": "1a57d443",
+                "createdAt": "2024-12-12T07:02:17.081058",
+                "expirationDate": "2024-12-13T07:02:17.081185"
+            }
+        ],
+        "payments": [
+            {
+                "id": "d6ef8654-3e59-49fb-8ee8-9d1b74eaefb7",
+                "userID": "ffdbc3e0-2926-4938-9de9-a1edbdf0226d",
+                "paymentDate": "2024-04-21T07:02:17.081199",
+                "amount": 62.03,
+                "paymentMethod": "credit_card",
+                "subscriptionType": "monthly",
+                "status": "failed",
+                "createdAt": "2024-12-12T07:02:17.081058",
+                "updatedAt": "2024-12-12T07:02:17.081058"
+            }
+        ],
+        "createdAt": "2024-12-12T07:02:17.081058",
+        "updatedAt": "2024-12-12T07:02:17.081058"
+    }
+]
