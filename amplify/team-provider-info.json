@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aitcopy2-dev-f007b-authRole",
+      "UnauthRoleArn": "arn:aws:iam::222634399766:role/amplify-aitcopy2-dev-f007b-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::222634399766:role/amplify-aitcopy2-dev-f007b-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-aitcopy2-dev-f007b-deployment",
+      "UnauthRoleName": "amplify-aitcopy2-dev-f007b-unauthRole",
+      "StackName": "amplify-aitcopy2-dev-f007b",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:222634399766:stack/amplify-aitcopy2-dev-f007b/39588f40-baca-11ef-ada8-022ff48a0f0f",
+      "AmplifyAppId": "d1vmslf13qus7o"
+    },
+    "categories": {
+      "api": {
+        "aitcopy2": {}
+      }
+    }
+  }
+}
