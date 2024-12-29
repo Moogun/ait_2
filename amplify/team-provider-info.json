@@ -14,6 +14,9 @@
     "categories": {
       "api": {
         "aitcopy2": {}
+      },
+      "function": {
+        "testLive": {}
       }
     }
   }
